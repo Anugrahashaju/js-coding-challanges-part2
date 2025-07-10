@@ -1,0 +1,19 @@
+{
+  "name": "js-coding-challanges-part2",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anugrahashaju/js-coding-challanges-part2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anugrahashaju/js-coding-challanges-part2/issues"
+  },
+  "homepage": "https://github.com/Anugrahashaju/js-coding-challanges-part2#readme"
+}

@@ -56,7 +56,7 @@
 #### 8. `filter()` - Even Numbers
 
 * **Problem Statement:** Given an array of numbers `[1, 2, 3, 4, 5, 6]`, use the `filter()` method to return a new array containing only the even numbers.
-* **Concepts Quizzed:** `Array.prototype.filter()`, arrow functions for callbacks.
+* **Concepts Quizzed:** `Array.prototype.filter()`, arrow functions for callbacks.  
 * **Hints:** The callback function for `filter()` should return `true` for elements to be included.
 * **Difficulty:** Easy
 
